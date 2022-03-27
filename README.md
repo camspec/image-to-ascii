@@ -1,7 +1,7 @@
 # Image to ASCII
 Converts an image file into ASCII characters.
 
-First, create a virtual environment in the image-to-ascii directory:  
+First, create a virtual environment in the image-to-ascii directory (Python must be added to PATH):  
 ```
 python -m venv env
 env\Scripts\activate
