@@ -13,7 +13,7 @@ def check_file(path):
         exit()
 
 
-print("ASCII Art Algorithm by Valiant#4075.")
+print("ASCII Art Algorithm by valianthelix.")
 pygame.init()
 
 filename = "picture/" + listdir("picture")[0]  # find first file in picture directory
